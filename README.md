@@ -1,6 +1,13 @@
 # templeos_iso_mirror
-unofficial TempleOS ISO mirror, public domain
+Unofficial TempleOS ISO mirror, public domain
 
-This is a mirror of the free available TempleOS ISO developed by by Terry A Davis. 
+https://github.com/x-itec/templeos_iso_mirror
 
-This mirror is not owned by him, this is just to help and to preserve his great work.
+This is a mirror of the free available TempleOS ISO developed by Terry A Davis  http://www.templeos.org
+
+This mirror is not owned by him, it's just for help and to preserve his great work for future generations.
+
+The sourcecode is on 
+
+https://github.com/minexew/TempleOS
+or https://github.com/x-itec/TempleOS
