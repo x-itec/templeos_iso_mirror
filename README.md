@@ -1,4 +1,5 @@
-# templeos_iso_mirror
+# Templeos ISO mirror
+
 Unofficial TempleOS ISO mirror, public domain
 
 https://github.com/x-itec/templeos_iso_mirror
@@ -10,4 +11,9 @@ This mirror is not owned by him, it's just for help and to preserve his great wo
 The sourcecode is on 
 
 https://github.com/minexew/TempleOS
-or https://github.com/x-itec/TempleOS
+
+or as a backup 
+
+https://github.com/x-itec/TempleOS
+
+
